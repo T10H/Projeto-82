@@ -1,0 +1,32 @@
+.BodyBg {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+body{
+    cursor: pointer;
+}
+
+#titulo {
+    font-size: 40px;
+    color: blueviolet;
+}
+
+#canvas1 {
+    border-width:10px;
+    background-color: white; 
+    border-style: ridge;
+}
+
+button {
+    background-color: greenyellow;
+    border: none;
+    color: floralwhite;
+    padding: 10px 42px;
+    font-size: 16px;
+}
+
+input{
+    margin-right: 20px;
+}
